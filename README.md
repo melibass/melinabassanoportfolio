@@ -17,7 +17,7 @@ Tech:
 
 
 
-<img src="https://i.ibb.co/k8cg4mg/mb-landing4.png> <br>
+<img src="https://i.ibb.co/k8cg4mg/mb-landing4.png"> <br>
 
 
 <img src="https://i.ibb.co/KwJs5Cd/mb-landing2.png"> <br>
@@ -49,7 +49,7 @@ Tech:
 
 
 
-<img src="https://i.ibb.co/k8cg4mg/mb-landing4.png> <br>
+<img src="https://i.ibb.co/k8cg4mg/mb-landing4.png"> <br>
 
 
 <img src="https://i.ibb.co/KwJs5Cd/mb-landing2.png"> <br>

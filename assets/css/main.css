@@ -110,6 +110,12 @@ input, select, textarea {
 		line-height: 1.65em;
 	}
 
+	ul.nodeco a{  
+		text-decoration: none ;
+		border-bottom: none;
+	}
+
+
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {

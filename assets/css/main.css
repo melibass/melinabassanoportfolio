@@ -3588,6 +3588,8 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background: rgb(34,193,195);
+background: linear-gradient(15deg, rgba(33, 178, 166, 1) 0%, rgba(3,42,119,0.989233193277311) 68%);
 	}
 
 		#banner h2 {
@@ -3675,7 +3677,7 @@ input, select, textarea {
 		}
 
 			#banner .more:after {
-				background-image: url("images/arrow.svg");
+				
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
